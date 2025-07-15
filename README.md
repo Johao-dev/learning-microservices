@@ -15,7 +15,7 @@ Lista de ejercicios y proyectos practicos de los conceptos de microservicios que
   * OpenAPI v3 + Swagger UI habilitado.
   * README con instrucciones para arrancar (`mvn spring-boot:run`).
 
-**Enlace repositorio:** [Aun no implementado](https://github.com/Johao-dev/learning-microservices)
+**Enlace repositorio:** [https://github.com/Johao-dev/product-rest-api](https://github.com/Johao-dev/product-rest-api)
 
 ---
 
