@@ -30,7 +30,7 @@ Lista de ejercicios y proyectos practicos de los conceptos de microservicios que
   * Dockerfiles individuales y `docker-compose.yml` para levantar ambos.
   * Documentacion de flujo: cliente crea pedido con datos de cliente.
 
-**Enlace repositorio:** [Aun no implementado](https://github.com/Johao-dev/learning-microservices)
+**Enlace repositorio:** [https://github.com/Johao-dev/learning-microservices-second-exercise](https://github.com/Johao-dev/learning-microservices-second-exercise)
 
 ---
 
